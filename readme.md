@@ -6,6 +6,10 @@ send icmp protocol data in php socket
 
 
 
+this project provider a `ping` function,which takes two paramters,the second paramter`count` has a default value to 4
+
+
+
 usage:
 
 ```php
